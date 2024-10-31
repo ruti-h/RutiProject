@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\servies\\customersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\servies\\customersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\servies\\fineservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\servies\\fineservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\servies\\computersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\servies\\computersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\dto\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\dto\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\servies\\rentingservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\servies\\rentingservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\controllers\\customeerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\controllers\\customeerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\dto\\renting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\dto\\renting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\dto\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\dto\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\dto\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\dto\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|y:\\groups\\group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\project\\project\\project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D442C687-9D40-4722-BF1A-AE7A7E46AF93}|Project\\Project.csproj|solutionrelative:project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomeersController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Controllers\\CustomeersController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\CustomeersController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Controllers\\CustomeersController.cs",
+              "RelativeToolTip": "Project\\Controllers\\CustomeersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:47:15.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Project.csproj",
+              "RelativeDocumentMoniker": "Project\\Project.csproj",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Project.csproj",
+              "RelativeToolTip": "Project\\Project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T19:44:36.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentingServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Servies\\RentingServies.cs",
+              "RelativeDocumentMoniker": "Project\\Servies\\RentingServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Servies\\RentingServies.cs",
+              "RelativeToolTip": "Project\\Servies\\RentingServies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:42:03.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FineServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Servies\\FineServies.cs",
+              "RelativeDocumentMoniker": "Project\\Servies\\FineServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Servies\\FineServies.cs",
+              "RelativeToolTip": "Project\\Servies\\FineServies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:40:57.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Servies\\CustomersServies.cs",
+              "RelativeDocumentMoniker": "Project\\Servies\\CustomersServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Servies\\CustomersServies.cs",
+              "RelativeToolTip": "Project\\Servies\\CustomersServies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:40:17.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComputersServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Servies\\ComputersServies.cs",
+              "RelativeDocumentMoniker": "Project\\Servies\\ComputersServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Servies\\ComputersServies.cs",
+              "RelativeToolTip": "Project\\Servies\\ComputersServies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:38:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fine.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\DTO\\Fine.cs",
+              "RelativeDocumentMoniker": "Project\\DTO\\Fine.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\DTO\\Fine.cs",
+              "RelativeToolTip": "Project\\DTO\\Fine.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA4wBAAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:24:18.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Renting.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\DTO\\Renting.cs",
+              "RelativeDocumentMoniker": "Project\\DTO\\Renting.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\DTO\\Renting.cs",
+              "RelativeToolTip": "Project\\DTO\\Renting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:19:05.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\DTO\\Computer.cs",
+              "RelativeDocumentMoniker": "Project\\DTO\\Computer.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\DTO\\Computer.cs",
+              "RelativeToolTip": "Project\\DTO\\Computer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:15:38.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\DTO\\Customers.cs",
+              "RelativeDocumentMoniker": "Project\\DTO\\Customers.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\DTO\\Customers.cs",
+              "RelativeToolTip": "Project\\DTO\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:13:18.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Project.csproj",
+              "RelativeDocumentMoniker": "Project\\Project.csproj",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D4\u05D5\u05DE\u05D9\u05E0\u05E8 \u05E8\u05D5\u05EA\\net core\\project\\Project\\Project\\Project\\Project.csproj",
+              "RelativeToolTip": "Project\\Project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T19:11:28.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
